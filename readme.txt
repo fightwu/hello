@@ -23,3 +23,12 @@ Git tracks changes.
 git tracks changes.
 
 test checkout
+
+
+add something to test add stage
+
+
+add other things to test add stage
+
+
+add some to test cover old add
